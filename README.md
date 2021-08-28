@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cesar Verdes
-- 👀 I’m interested in Javascript, HTML5, CSS3, React, nodejs, Hasura, PostgreSQL, VSCode, Figma, Material-UI
+- 👀 I'm interested in Full Stack development using Javascript, HTML5, CSS3, React, nodejs, Hasura, PostgreSQL, VSCode, Figma, Material-UI
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on helping people to get a job in which they can develop personally and professionally.
 - 📫 How to reach me cesarverdes@gmail.com
